@@ -1,0 +1,1 @@
+I want you to output Rust code. The program is a game that renders with SDL2 library. It should display 3D projection of voxels grid. The grid is filled with voxels such way that they forms a sphere. The camera rotates around the grid. The is one directional light coming from an angle.

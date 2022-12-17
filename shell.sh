@@ -1,0 +1,1 @@
+nix-shell -p SDL2 SDL2_gfx SDL2_image
